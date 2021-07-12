@@ -1,4 +1,5 @@
-#Code-refractor
+# Code Refactor
+
 refactor code from an existing webpage
 
 ## User Story
