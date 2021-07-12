@@ -22,3 +22,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+deployed page-https://christianlee45.github.io/Code-refractor/
+
+<img width="1440" alt="Screen Shot 2021-07-12 at 7 32 14 PM" src="https://user-images.githubusercontent.com/78834444/125368333-02db2980-e348-11eb-865d-d41b85fef494.png">
+
